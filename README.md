@@ -8,11 +8,8 @@ El script recorre todos los archivos `.txt` dentro de la carpeta `data`, busca l
 
 ## Requisitos
 
-- Python 3.x  
+- Python 
 No se requieren librerías adicionales.
-
-## Uso
-
 ## Uso
 
 ### **Paso 1:**
